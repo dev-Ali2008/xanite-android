@@ -21,8 +21,3 @@ jobs:
         run: chmod +x gradlew
       - name: Build Debug APK
         run: ./gradlew assembleDebug
-      - name: Upload Debug APK
-        uses: actions/upload-artifact@v4
-        with:
-          name: Xanite
-          path: app/build/outputs/apk/debug/Xanite.apk
