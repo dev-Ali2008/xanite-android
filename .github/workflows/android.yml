@@ -25,4 +25,4 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: Xanite
-          path: app/build/outputs/apk/debug/Xanite.apk
+          path: app/build/outputs/apk/release/Xanite-release-unsigned.apk
