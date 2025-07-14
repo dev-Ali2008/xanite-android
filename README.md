@@ -46,10 +46,10 @@ you can manually adjust the resolution and performance in settings for experimen
 
 ### For Xbox Original
 - Processors:
-  - Snapdragon
-  - Exynos
+  - Snapdragon (snapdragon 870 and better)
+  - Exynos 
   - Helio 
-  - Dimensity
+  - Dimensity 
 
 - RAM:
   - 4/6 GB minimum
@@ -57,8 +57,12 @@ you can manually adjust the resolution and performance in settings for experimen
 
 ### For Xbox 360 (higher requirements)
 - Processors:
-  - Snapdragon 8-series
+  - Snapdragon 8-series (snapdragon 8 gen 1 and better)
   - High-end Mali GPUs
+ 
+  - RAM:
+  - 8 GB minimum
+  - 12+ GB for best performance
 
 ### Graphics:
 - shaderxbox (private technology)
